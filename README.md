@@ -1,5 +1,5 @@
 <p align="center">
- <a href="http://bework.io.vn/"><strong>BEWORK - Website tìm kiếm việc làm IT</strong></a>
+ <a href="http://bework.io.vn/" target="_blank"><strong>BEWORK - Website tìm kiếm việc làm IT</strong></a>
 </p>
 
 <p align="center">
