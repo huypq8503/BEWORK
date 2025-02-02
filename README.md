@@ -7,7 +7,7 @@
 </p>
 ----
 <p>
- >Tài khoản dùng thử cho cả ứng viên và nhà tuyển dụng
- >>Tài khoản: bework@gmail.com
- >>Mật Khẩu: 123456
+ > Tài khoản dùng thử cho cả ứng viên và nhà tuyển dụng <br/>
+ >> Tài khoản: bework@gmail.com <br/>
+ >> Mật Khẩu: 123456 <br/>
 </p>
